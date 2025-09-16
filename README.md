@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 👋 Welcome to the Repository **UI_Flutter** 🎉  
@@ -81,3 +82,6 @@ Think of this as your **handy cookbook of Flutter widgets** 👩‍💻👨‍�
 ## 🔗 Connect with me  
 [![GitHub](https://img.shields.io/badge/GitHub-bnpranavika-black?logo=github&style=for-the-badge)](https://github.com/bnpranavika)  
 
+=======
+# flutter-experiments
+>>>>>>> cb3fffe9fda7eb0db3aff0ddbaeacf906ae9d040
